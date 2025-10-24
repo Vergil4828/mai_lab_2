@@ -7,4 +7,4 @@ jobs:
     uses: Vergil4828/MAI_LABS_OOP/.github/workflows/gtests.yml@master
     permissions:
       contents: read
-      checks: write
+      checks: write 
