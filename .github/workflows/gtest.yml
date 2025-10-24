@@ -1,6 +1,6 @@
 name: CI GTEST
 
-on: [push,pull_request]
+on: [push, pull_request]
 
 jobs:
   call-shared-workflow:
